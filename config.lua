@@ -6,30 +6,32 @@ Config.Markers = {
         mainmarker = {
             coords = vector3(-723.46, -1429.22, 5.0),
             marker= 1,--[[ get markers here: https://docs.fivem.net/docs/game-references/markers/ ]]
-            scale = 5.0,
-            height = 1.0,
+            scale = 2.0,
+            height = 0.3,
         },
         submarker = {
-            marker = 36,
-            posz = 14.25,
+            marker = 34,
+            posz = 5.55,
+            -- height = .0,
         },
+
         rgba = {197,106,207,155},
     },
 
     -- Boat Dealer
-    {
-        mainmarker = {
-            coords = vector3(-723.46, -1429.22, 5.0),
-            marker= 1,--[[ get markers here: https://docs.fivem.net/docs/game-references/markers/ ]]
-            scale = 5.0,
-            height = 1.0,
-        },
-        submarker= {
-            marker = 36,
-            posz = 14.25,
-        },
+    -- {
+    --     mainmarker = {
+    --         coords = vector3(-723.46, -1429.22, 5.0),
+    --         marker= 1,--[[ get markers here: https://docs.fivem.net/docs/game-references/markers/ ]]
+    --         scale = 5.0,
+    --         height = 1.0,
+    --     },
+    --     -- submarker= {
+    --     --     marker = 36,
+    --     --     posz = 6.25,
+    --     -- },
 
-        rgba = {197,106,207,155},
-    },
+    --     rgba = {197,106,207,155},
+    -- },
     
 }
