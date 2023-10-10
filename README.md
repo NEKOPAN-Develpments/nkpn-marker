@@ -1,6 +1,12 @@
 # nkpn-marker
-
 This is standalone.
+
+# installation
+write this on your server.cfg file.
+
+```cfg
+ensure nkpn-marker
+```
 
 config.lua
 ```lua
