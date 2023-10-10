@@ -1,14 +1,14 @@
 # nkpn-marker
 This is standalone.
 
-# installation
+## installation
 write this on your server.cfg file.
 
 ```cfg
 ensure nkpn-marker
 ```
 
-config.lua
+## config.lua
 ```lua
 Config = {}
 Config.Markers = {
